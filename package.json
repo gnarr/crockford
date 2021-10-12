@@ -1,6 +1,6 @@
 {
   "name": "crockford-base32-number",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple util for encoding and decoding numbers as Crockford Base32 strings",
   "main": "dist/crockford.js",
   "types": "dist/crockford.d.ts",
