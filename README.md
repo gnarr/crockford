@@ -2,8 +2,6 @@
 [![Build Status][1]][2]
 [![Coverage Status][3]][4]
 [![npm][5]][6]
-[![dependencies Status][7]][8]
-[![devDependencies Status][9]][10]
 [![Downloads/week][11]][12]
 [![Dependabot Status][13]][14]
 
@@ -11,14 +9,10 @@
 [2]: https://www.travis-ci.com/gnarr/crockford
 [3]: https://coveralls.io/repos/github/gnarr/crockford/badge.svg?branch=main
 [4]: https://coveralls.io/github/gnarr/crockford?branch=main
-[5]: https://img.shields.io/npm/v/crockford.svg?style=flat-square
-[6]: https://www.npmjs.com/package/crockford
-[7]: https://david-dm.org/gnarr/crockford.svg
-[8]: https://david-dm.org/gnarr/crockford
-[9]: https://david-dm.org/gnarr/crockford/dev-status.svg
-[10]: https://david-dm.org/gnarr/crockford?type=dev
+[5]: https://img.shields.io/npm/v/crockford-base32-number.svg?style=flat-square
+[6]: https://www.npmjs.com/package/crockford-base32-number
 [11]: https://img.shields.io/npm/dw/crockford.svg
-[12]: https://www.npmjs.com/package/crockford
+[12]: https://www.npmjs.com/package/crockford-base32-number
 [13]: https://api.dependabot.com/badges/status?host=github&repo=gnarr/crockford
 [14]: https://dependabot.com
 
