@@ -5,6 +5,7 @@
 [![Downloads/week][11]][12]
 [![Dependabot Status][13]][14]
 
+
 [1]: https://www.travis-ci.com/gnarr/crockford.svg?branch=main
 [2]: https://www.travis-ci.com/gnarr/crockford
 [3]: https://coveralls.io/repos/github/gnarr/crockford/badge.svg?branch=main
